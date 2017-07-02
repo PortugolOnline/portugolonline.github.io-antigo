@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portugol Online</title>
-    <description>Ambiente de desenvolvimento integrado que suporta a linguagem Portugol, inspirada no livro Fundamentos da Programação de Computadores
-</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jun 2017 00:24:05 -0300</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2017 00:24:05 -0300</lastBuildDate>
+    <description>Ambiente de desenvolvimento integrado que suporta a linguagem Portugol, inspirada no livro Fundamentos da Programação de Computadores</description>
+    <link>https://portugolonline.github.io/</link>
+    <atom:link href="https://portugolonline.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 02 Jul 2017 00:25:13 -0300</pubDate>
+    <lastBuildDate>Sun, 02 Jul 2017 00:25:13 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -26,8 +25,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Aug 2015 05:38:44 -0300</pubDate>
-        <link>/jekyll/update/2015/08/25/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/jekyll/update/2015/08/25/welcome-to-jekyll/</guid>
+        <link>https://portugolonline.github.io/blog/2015/08/25/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://portugolonline.github.io/blog/2015/08/25/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
